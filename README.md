@@ -3,10 +3,10 @@
 
 ---
 
-## 📌 Project Overview (Extended & Polished)
+## 📌 Project Overview
 This project conducts a comprehensive, systematic data analysis of the stock market performance and financial health of three leading U.S. technology companies: Apple (AAPL), Microsoft (MSFT), and Google (GOOGL) over the period from 2020 to 2025. Using real and reliable financial data retrieved from the WRDS database (CRSP and Compustat), the project implements a complete end-to-end analytical workflow in Python, including data extraction, cleaning, processing, statistical calculation, professional visualization, and deep interpretation. The analysis evaluates stock price trends, monthly returns, investment risk levels, and core financial ratios such as PE ratio, ROA, and debt-to-asset ratio, aiming to reveal the long-term growth patterns, profitability, stability, and financial structure of leading tech enterprises. This project provides a fully reproducible, academically rigorous, and practically valuable analysis template suitable for finance learning, investment reference, and data analysis demonstration.
 
-## 🎯 Purpose & Target Audience (Extended & Polished)
+## 🎯 Purpose & Target Audience 
 ### Analysis Purpose
 1. To observe and compare long-term stock price trends and monthly return patterns of AAPL, MSFT, and GOOGL from 2020 to 2025.
 2. To evaluate investment risk and stability by analyzing return volatility (standard deviation).
