@@ -74,7 +74,7 @@ This project conducts a comprehensive, systematic data analysis of the stock mar
 AI tools were used to assist with code formatting, visualization adjustment, and English proofreading during this project. All core logic, data analysis, workflow design, result interpretation, and project structure were independently completed, verified, and fully understood by the student.
 
 ## 📬 Student Information
-- Name: [Your Full Name]
-- Student ID: [Your Student ID]
+- Name: [Shiyi Sun]
+- Student ID: [2473063]
 - Module: ACC102
 - Track: Track 2 – GitHub Data Analysis Project
