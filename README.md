@@ -6,6 +6,9 @@
 ## 📌 Project Overview
 This project conducts a comprehensive, systematic data analysis of the stock market performance and financial health of three leading U.S. technology companies: Apple (AAPL), Microsoft (MSFT), and Google (GOOGL) over the period from 2020 to 2025. Using real and reliable financial data retrieved from the WRDS database (CRSP and Compustat), the project implements a complete end-to-end analytical workflow in Python, including data extraction, cleaning, processing, statistical calculation, professional visualization, and deep interpretation. The analysis evaluates stock price trends, monthly returns, investment risk levels, and core financial ratios such as PE ratio, ROA, and debt-to-asset ratio, aiming to reveal the long-term growth patterns, profitability, stability, and financial structure of leading tech enterprises. This project provides a fully reproducible, academically rigorous, and practically valuable analysis template suitable for finance learning, investment reference, and data analysis demonstration.
 
+## ✅ Demo video
+https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/c387a40bc71b4a31bb771800e09e1bf81d
+
 ## 🎯 Purpose & Target Audience 
 ### Analysis Purpose
 1. To observe and compare long-term stock price trends and monthly return patterns of AAPL, MSFT, and GOOGL from 2020 to 2025.
@@ -69,9 +72,6 @@ This project conducts a comprehensive, systematic data analysis of the stock mar
 - Analysis uses monthly and annual frequency data.
 - Financial ratios rely on Compustat data availability.
 - Results reflect historical performance rather than future predictions.
-
-## ✅ Demo vieo
-https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/c387a40bc71b4a31bb771800e09e1bf81d
 
 ## 📬 Student Information
 - Name: [Shiyi Sun]
