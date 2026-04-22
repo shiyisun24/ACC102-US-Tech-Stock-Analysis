@@ -70,8 +70,8 @@ This project conducts a comprehensive, systematic data analysis of the stock mar
 - Financial ratios rely on Compustat data availability.
 - Results reflect historical performance rather than future predictions.
 
-## ✅ AI Disclosure
-AI tools were used to assist with code formatting, visualization adjustment, and English proofreading during this project. All core logic, data analysis, workflow design, result interpretation, and project structure were independently completed, verified, and fully understood by the student.
+## ✅ Demo vieo
+https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/c387a40bc71b4a31bb771800e09e1bf81d
 
 ## 📬 Student Information
 - Name: [Shiyi Sun]
