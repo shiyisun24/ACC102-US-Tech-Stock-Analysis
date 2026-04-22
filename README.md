@@ -8,6 +8,7 @@ This project conducts a comprehensive, systematic data analysis of the stock mar
 
 ## ✅ Demo video
 https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/c387a40bc71b4a31bb771800e09e1bf81d
+https://www.bilibili.com/video/BV1SXoxBwEi8/?share_source=copy_web&vd_source=9b6a535299baeb31f7741f1325465a96
 
 ## 🎯 Purpose & Target Audience 
 ### Analysis Purpose
